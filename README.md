@@ -134,7 +134,7 @@ Make sure the connection string is valid:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=.;Database=UserManagementDb;Trusted_Connection=True;TrustServerCertificate=True"
+  "DefaultConnection": "Server=DESKTOP-6VRTD5A\\SQLEXPRESS;Database=UserManagementDb;Trusted_Connection=True;TrustServerCertificate=True"
 }
 ```
 
